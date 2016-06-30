@@ -1,0 +1,7 @@
+velocity = 114.000000
+acc = 4.800000
+time = 57.000000
+distance = 2.000000
+distance+2-(1/acc)
+mass = 71.000000
+force = 340.800018

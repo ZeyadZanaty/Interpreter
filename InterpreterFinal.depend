@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1463314641 source:c:\users\zeyad\documents\c\interpreterfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"linkedlist.h"
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<conio.h>
+
+1461602756 c:\users\zeyad\documents\c\interpreterfinal\stack.h
+	<stdio.h>
+	<stdlib.h>
+
+1462037161 c:\users\zeyad\documents\c\interpreterfinal\linkedlist.h
+	<string.h>
+
+1463315717 source:c:\users\zeyad\documents\github\interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"linkedlist.h"
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<conio.h>
+
+1461602756 c:\users\zeyad\documents\github\interpreter\stack.h
+	<stdio.h>
+	<stdlib.h>
+
+1462037161 c:\users\zeyad\documents\github\interpreter\linkedlist.h
+	<string.h>
+
